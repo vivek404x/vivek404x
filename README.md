@@ -117,7 +117,7 @@ SELECT * FROM skills WHERE category = 'database';
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%231E2029.svg?style=for-the-badge&logo=linkedin&logoColor=0AF7FF)](https://linkedin.com/in/YourProfile)
 [![Twitter](https://img.shields.io/badge/Twitter-%231E2029.svg?style=for-the-badge&logo=twitter&logoColor=0AF7FF)](https://twitter.com/YourProfile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%231E2029.svg?style=for-the-badge&logo=google-chrome&logoColor=0AF7FF)](https://YourPortfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%231E2029.svg?style=for-the-badge&logo=google-chrome&logoColor=0AF7FF)](gtvivek.github.io/Portfolio-Website/)
 
 </div>
 
